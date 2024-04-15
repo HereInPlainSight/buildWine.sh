@@ -1,0 +1,8 @@
+Use patch only when compiling wine <= 6.8.
+
+Source of patch:
+https://www.mail-archive.com/mingw-w64-public@lists.sourceforge.net/msg18719.html
+
+Source of timeframe for fix implementation:
+https://forum.winehq.org/viewtopic.php?t=35656
+
